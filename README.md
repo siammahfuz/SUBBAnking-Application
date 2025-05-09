@@ -45,7 +45,7 @@ To run the application locally:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/SUBBanking-Application.git
+git clone https://github.com/siammahfuz/SUBBAnking-Application
 cd SUBBanking-Application
 Set up the backend and database as per the documentation, then launch the app using your preferred local server (e.g., XAMPP, Node, etc.).
 
